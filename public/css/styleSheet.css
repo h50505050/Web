@@ -1,0 +1,64 @@
+.img
+{
+    height: 200px;
+    width: 250px;
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    
+    
+}
+img
+{
+    
+    border-radius: 10%;
+    width : 200px;
+}
+body {
+    
+    background-image: url('Bebra.gif');
+    background-size: cover;
+}
+.content {
+    position: absolute;
+    top: 0;
+    left: 300px;
+    font-size: 30px;
+    color: #0cf73d;
+    font-family: 'Lobster', cursive;
+}
+.box
+{
+    position: relative;    
+}
+.work
+{
+
+    position: absolute;
+    top: 300px;
+    width: 200px;
+    color: #ffc400;
+    font-family: 'Lobster', cursive;
+    font-family: 'Press Start 2P', cursive;
+}
+.game
+{
+    background-color: chartreuse;
+    position: relative; 
+    height: 300px;
+    width: 300px;
+    top:650px;
+}
+.palyer img
+{
+    height: 50px;   
+    width: 50px;
+    border-radius: 100px;  
+    top: 0px;
+    bottom: 0px;  
+    left:0px;
+    right: 0px;
+
+}
